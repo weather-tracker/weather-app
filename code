@@ -7,9 +7,15 @@
 <body>
 <div>
 <p>radar</p>
+
 </div>
 <div>
 <p>forcast</p>
+
+</div>
+<div>
+<p>satelite</p>
+
 </div>
 </body>
 </html>
