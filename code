@@ -6,8 +6,15 @@
 <html>
 <body>
 <div>
-<p>radar</p>
+<p>list of city's please type in you city id</p>
+<p>
 
+</p>
+</div>
+<div>
+<p>radar</p>
+<!--rember to change api id adn the city zone.-->
+<a href="http://samples.openweathermap.org/data/2.5/forecast?id=524901&appid=b1b15e88fa797225412429c1c50c122a1">you city</a>
 </div>
 <div>
 <p>forcast</p>
